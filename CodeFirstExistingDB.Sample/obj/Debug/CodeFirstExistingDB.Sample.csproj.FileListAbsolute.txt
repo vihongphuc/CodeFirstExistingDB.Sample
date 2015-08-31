@@ -1,0 +1,10 @@
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\bin\Debug\CodeFirstExistingDB.Sample.exe.config
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\bin\Debug\CodeFirstExistingDB.Sample.exe
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\bin\Debug\CodeFirstExistingDB.Sample.pdb
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\bin\Debug\EntityFramework.dll
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\bin\Debug\EntityFramework.xml
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\obj\Debug\CodeFirstExistingDB.Sample.csprojResolveAssemblyReference.cache
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\obj\Debug\CodeFirstExistingDB.Sample.exe
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstExistingDB.Sample\CodeFirstExistingDB.Sample\obj\Debug\CodeFirstExistingDB.Sample.pdb
